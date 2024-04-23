@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... looking up how to make a Discord app
+- 🌱 I’m currently learning ... React and Node.JS
+- 💬 Ask me about ... databases and SQL
+- 😄 Pronouns: ... She/ they 
+
 
 <!--
 **jlbdash/jlbdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
