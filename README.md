@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... looking up how to make a Discord app
+- 🔭 I’m currently working on ... researching how to make a Discord app
 - 🌱 I’m currently learning ... React and Node.JS
 - 💬 Ask me about ... databases and SQL
 - 😄 Pronouns: ... She/ they 
